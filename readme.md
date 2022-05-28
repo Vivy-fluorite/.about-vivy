@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Vivy-fluorite/.about-vivy/">
+    <img src="Images/Vivy_Fluorite.png" alt="Logo" width="600" height="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Vivy_Fluorite_Project</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A Discord Bot project made for multi-purpose.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Vivy-fluorite/.about-vivy"><strong>Explore our project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.gg/wRmGcSpNwZ">Join Our sever</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Vivy-fluorite/.about-vivy/tree/main/Features">Features</a>
   </p>
 </div>
 
