@@ -68,6 +68,7 @@
 ![Product Name Screen Shot][product-screenshot]
 
 Hello there 👋
+<br>
 Vivy-Fluorite is discord project public bot. Focusing on Server's economy system. Create variety of shops, items, lootboxes, and many other features.
 You can make your own custom commands as per your wish with your desired wish.  
 
