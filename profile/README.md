@@ -184,5 +184,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: ./vivy.jpeg
-[Invite_Bot]: ./Invite-bot.png
+[product-screenshot]: https://github.com/Vivy-fluorite/.github/blob/main/profile/vivy.jpeg
+[Invite_Bot]: https://github.com/Vivy-fluorite/.github/blob/main/profile/Invite-bot.png
